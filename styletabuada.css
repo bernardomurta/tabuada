@@ -1,0 +1,25 @@
+body{
+background-color: rgb(230, 207, 174);
+font: normal 15pt arial;
+
+}
+header{
+color:black;
+font-style: oblique;
+text-align: center;
+}
+section{
+background:chocolate;
+border-radius: 5px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.678);
+
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    
+
+}
